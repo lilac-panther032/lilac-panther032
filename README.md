@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Apurv Kushwaha</h1>
 <h3 align="center">A passionate Robotics enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1zgioAVcuQ38Pp9311YTylTIYCEvwucvl/view?usp=drive_link">
+<img align="right" alt="me" width="400" src="https://i.pinimg.com/originals/e0/57/92/e05792fecab3b436ec106b8ad0a64a3f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilac-panther032&label=Profile%20views&color=0e75b6&style=flat" alt="lilac-panther032" /> </p>
